@@ -13,4 +13,4 @@ see the analysis project  here
 
 Below is the interactive dashboard created using Looker Studio to visualize my findings, making it easier to explore patterns and trends in sales and profitability. Use change to full screen for the best views:
 
-[![outfit_oasis_dashboard]([https://gckarchive.com/wp-content/uploads/2025/02/bi1.png]](https://gckarchive.com/wp-content/uploads/2025/02/edited_bi_outfitOasis.mp4))
+[![Watch the video](https://gckarchive.com/wp-content/uploads/2025/02/bi1.png)](https://gckarchive.com/wp-content/uploads/2025/02/edited_bi_outfitOasis.mp4)
