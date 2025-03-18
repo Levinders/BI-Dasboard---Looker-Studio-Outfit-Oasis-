@@ -13,4 +13,6 @@ see the analysis project  here
 
 Below is the interactive dashboard created using Looker Studio to visualize my findings, making it easier to explore patterns and trends in sales and profitability. You can view the dashboard here:
 
-[Main Dashboard Link](https://gckarchive.com/bi-dashboard-looker-studio-outfit-oasis/)
+[Main Dashboard Link](https://gckarchive.com/wp-content/uploads/2025/03/HR-management1.png)
+[Main Dashboard Link](https://gckarchive.com/wp-content/uploads/2025/03/HR-management4-1024x574.png)
+[Main Dashboard Link](https://gckarchive.com/wp-content/uploads/2025/03/HR-management7-1024x572.png)
